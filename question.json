@@ -1,0 +1,98 @@
+[
+  {
+    "question": "C'est Quoi la Capitale de la France ?",
+    "answer_1": "Rabat",
+    "answer_2": "Paris",
+    "answer_3": "Berlin",
+    "answer_4": "Riyad",
+    "right_answer": "Paris"
+  },
+  {
+    "question": "C'est Quoi la Capitale de L'Allemagne ?",
+    "answer_1": "Bakou",
+    "answer_2": "Porto Novo",
+    "answer_3": "Berlin",
+    "answer_4": "Bruxelles",
+    "right_answer": "Berlin"
+  },
+  {
+    "question": "C'est Quoi la Capitale de Chine ?",
+    "answer_1": "Pékin",
+    "answer_2": "Moroni",
+    "answer_3": "Séoul",
+    "answer_4": "Pyongyang",
+    "right_answer": "Pékin"
+  },
+  {
+    "question": "C'est Quoi la Capitale de Croatie ?",
+    "answer_1": "Madrid",
+    "answer_2": "Quito",
+    "answer_3": "Zagreb",
+    "answer_4": "Banjul",
+    "right_answer": "Zagreb"
+  },
+  {
+    "question": "Le nom de fils de lion ?",
+    "answer_1": "Rugir",
+    "answer_2": "Lionne",
+    "answer_3": "Lionceau",
+    "answer_4": "Kion",
+    "right_answer": "Lionceau"
+  },
+  {
+    "question": "combien des nombres existe ?",
+    "answer_1": "9 Nomber",
+    "answer_2": "Infinie Nomber",
+    "answer_3": "Quadrilion",
+    "answer_4": "Desilliyard",
+    "right_answer": "9 Nomber"
+  },
+  {
+    "question": "Combien de tasses de café peut-il vous tuer?",
+    "answer_1": "4 Tasses",
+    "answer_2": "20 Tasses",
+    "answer_3": "100 Tasses",
+    "answer_4": "50 Tasses",
+    "right_answer": "100 Tasses"
+  },
+  {
+    "question": "La Populair Langage de programmation ?",
+    "answer_1": "Php",
+    "answer_2": "Dart",
+    "answer_3": "C++",
+    "answer_4": "Python",
+    "right_answer": "Python"
+  },
+  {
+    "question": "l'année de naissance du reine illizabet ?",
+    "answer_1": "1935",
+    "answer_2": "1930",
+    "answer_3": "1926",
+    "answer_4": "1920",
+    "right_answer": "1926"
+  },
+  {
+    "question": "La Distance entre la terre est la soleil",
+    "answer_1": "200 Milions Kilométre",
+    "answer_2": "150 Milions Kilométre",
+    "answer_3": "100 Milions Kilométre",
+    "answer_4": "250 Milions Kilométre",
+    "right_answer": "150 Milions Kilométre"
+  },
+  {
+    "question": "La date de début de coupe du monde",
+    "answer_1": "1950",
+    "answer_2": "1940",
+    "answer_3": "1930",
+    "answer_4": "1920",
+    "right_answer": "1930"
+  },
+  {
+    "question": "Le Nombre des Pays du monde",
+    "answer_1": "200 Pays",
+    "answer_2": "195 Pays",
+    "answer_3": "190 Pays",
+    "answer_4": "215 Pays",
+    "right_answer": "195 Pays"
+  }
+]

@@ -1,0 +1,14 @@
+1- Create Json object for Q & A
+2- Start creating HTML Markup
+3- Add Dummy Data
+4- Styling HTML
+5- Fetch number of question From Json
+6- Show Question Count + Question catégorie
+7- Show Number of Bullet depend on question count 
+8- Set the number for the right and the wrong anwser
+9- creat countDown timer
+10- Fetch the question from Json
+11- Show the first question
+12- check anwser and hide question then show the next one
+13- if the time end mark the question wrong and show the next question
+14- if Question finished Show the result
